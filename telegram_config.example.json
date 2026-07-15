@@ -1,0 +1,9 @@
+{
+  "bot_token": "YOUR_BOT_TOKEN_HERE",
+  "chat_id": "YOUR_CHAT_ID_HERE",
+  "channels_to_monitor": [],
+  "groups_to_monitor": [],
+  "polling_interval": 5,
+  "auto_forward": false,
+  "max_message_length": 4096
+}
